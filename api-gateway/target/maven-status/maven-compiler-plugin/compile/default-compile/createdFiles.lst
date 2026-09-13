@@ -1,0 +1,3 @@
+com\banking\gateway\JwtAuthenticationFilter.class
+com\banking\gateway\JwtAuthenticationFilter$Config.class
+com\banking\gateway\ApiGatewayApplication.class

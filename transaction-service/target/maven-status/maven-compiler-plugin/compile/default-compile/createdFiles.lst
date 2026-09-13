@@ -1,0 +1,10 @@
+com\banking\transaction\dto\TransferRequest.class
+com\banking\transaction\config\EmbeddedKafkaConfig.class
+com\banking\transaction\client\AccountClientFallback.class
+com\banking\transaction\controller\TransactionController.class
+com\banking\transaction\TransactionServiceApplication.class
+com\banking\transaction\kafka\TransactionSagaConsumer.class
+com\banking\transaction\client\AccountClient.class
+com\banking\transaction\service\TransactionService.class
+com\banking\transaction\entity\BankTransaction.class
+com\banking\transaction\repository\TransactionRepository.class
